@@ -47,7 +47,7 @@ npm -v
 
 Each command should print a version number.
 
-If PowerShell says *"running scripts is disabled on this system"*, run this once and try again:
+If PowerShell says _"running scripts is disabled on this system"_, run this once and try again:
 
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
